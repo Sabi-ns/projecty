@@ -1,0 +1,23 @@
+#header {
+    background-color: orangered;
+    text-align: center;
+}
+ 
+.container {
+        padding: 20px;
+        border: 1px solid rgb(113, 248, 101);
+         }
+.title {
+        font-size: 24px;
+        text-align: center;
+         }
+.highlight {
+        color: salmon;
+        font-weight: bold;
+         }
+p {
+    color: rgb(132, 180, 182);
+    font-size: 16px;
+         }
+         
+
