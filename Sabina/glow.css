@@ -1,0 +1,28 @@
+.box1 {
+    width: 50%;
+    height: 50%;
+    background-color: lightcoral;
+    text-align:center;
+    
+ }
+ .box {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    text-align:center;
+    color: blue;
+ }   
+.text1 {
+    font-size:medium ;
+    color: rgb(245 24 67);
+}  
+.text {
+    font-size:2em;
+    color : rgba(24, 145, 89, 0.8)
+}
+ body{
+  background-color: #ffee00;  
+}
+ 
+ 
+
