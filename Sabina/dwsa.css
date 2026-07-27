@@ -1,0 +1,34 @@
+.block {
+    background-color: rgb(218, 111, 49);
+    color: blueviolet;
+    margin: 10px 0;
+    padding: 10px;
+  }
+.sad { 
+    
+    background-color: rgb(218, 49, 105);
+    color: rgb(43, 226, 150);
+    margin: 10px 0;
+    padding: 10px;  
+}
+
+.def{
+display: block;
+background-color: yellow;
+color: #00fc00;
+margin: 25px 0;
+padding: 20px; 
+}
+
+
+
+
+h2 {
+    background-color: rgb(49, 179, 218);
+    color: rgb(192, 226, 43);
+ }
+
+ 
+ 
+ 
+ 
