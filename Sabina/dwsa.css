@@ -4,6 +4,13 @@
     margin: 10px 0;
     padding: 10px;
   }
+  .block1 {
+    display: inline;
+    background-color: rgb(218, 111, 49);
+    color: blueviolet;
+    margin: 10px 0;
+    padding: 10px;
+  }
 .sad { 
     
     background-color: rgb(218, 49, 105);
