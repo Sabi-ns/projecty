@@ -19,5 +19,16 @@ p {
     color: rgb(132, 180, 182);
     font-size: 16px;
          }
-         
+   p {
+    color: blue;
+    font-weight: normal;
+   }    
+   .shine {
+    color: green;
+    font-weight: bold;
+   }  
+   #ideaa {
+    color: red;
+    font-weight:20px;
+   }
 
